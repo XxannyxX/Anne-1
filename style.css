@@ -1,12 +1,13 @@
-body{
-color: rgb(0, 0, 0);
-background-color: rgba(20, 187, 221, 0.268);
+body {
+    color: rgb(0, 0, 0);
+    background-color: rgba(20, 187, 221, 0.268);
 }
-section{
-background: rgb(204, 23, 198);
-padding-bottom: 80px;
-padding-top: 80px;
-display:flex;
-justify-content:center;
+
+section {
+    background: rgb(204, 23, 198);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 
 }
